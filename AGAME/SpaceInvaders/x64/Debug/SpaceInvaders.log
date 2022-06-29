@@ -1,0 +1,8 @@
+﻿  Ship.cpp
+C:\Users\s212844\Desktop\GitHub\SpaceInvaders\SpaceInvaders\Ship.cpp(13,66): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\s212844\Desktop\GitHub\SpaceInvaders\SpaceInvaders\Ship.cpp(14,63): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\s212844\Desktop\GitHub\SpaceInvaders\SpaceInvaders\Ship.cpp(29,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\s212844\Desktop\GitHub\SpaceInvaders\SpaceInvaders\Ship.cpp(30,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\s212844\Desktop\GitHub\SpaceInvaders\SpaceInvaders\Ship.cpp(35,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\s212844\Desktop\GitHub\SpaceInvaders\SpaceInvaders\Ship.cpp(36,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  SpaceInvaders.vcxproj -> C:\Users\s212844\Desktop\GitHub\SpaceInvaders\bin\x64\Debug\SpaceInvaders.exe

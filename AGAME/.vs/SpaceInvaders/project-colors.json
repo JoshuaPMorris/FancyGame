@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1c389eec-b222-4154-afee-4cbde5198854": {
+      "ProjectGuid": "1c389eec-b222-4154-afee-4cbde5198854",
+      "DisplayName": "SpaceInvaders",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
